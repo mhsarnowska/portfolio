@@ -24,7 +24,7 @@ Give me a chance to tell you more at the interview :wink:
 3. **Test & Feedback,**
 4. **xampp,**
 5. **MySQL,**
-6. **Selenium IDE**
+6. **Selenium IDE,**
 7. **GitHub,**
 8. **Slack;**
 
