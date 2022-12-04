@@ -14,18 +14,18 @@ Give me a chance to tell you more at the interview :wink:
 ## :computer: Practical skills and tools
 
 -  Creating test cases and reporting bugs
-1. **TestLink,**
-2. **Jira,**
-3. **Trello;**
+- - **TestLink,**
+- - **Jira,**
+- - **Trello;**
 - other tools which I have performed
-1. **DevTools,**
-2. **ShareX,**
-3. **Test & Feedback,**
-4. **xampp,**
-5. **MySQL,**
-6. **Selenium IDE**
-7. **GitHub,**
-8. **Slack;**
+- - **DevTools,**
+- - **ShareX,**
+- - **Test & Feedback,**
+- - **xampp,**
+- - **MySQL,**
+- - **Selenium IDE**
+- -. **GitHub,**
+- - **Slack;**
 
 
 
@@ -33,7 +33,7 @@ Give me a chance to tell you more at the interview :wink:
 ## :school: Certificates and Courses
 - **QA DareIT Challenge,**
 - Podstawy manualnego testowania oprogramowania (Udemy),
-- - Praktyczny kurs testowania oprogramowania (Udemy),
+-  Praktyczny kurs testowania oprogramowania (Udemy),
 - Jira od podstaw - zarządzanie projektami (Udemy),
 - Introduction to SQL (sqlbolt.com)
 
