@@ -3,8 +3,8 @@
 # Take a shortcut :runner:
 - :wave: [About me](#about-me)
 - :computer: [Practical skills](#practical-skills)
-- [Third Example](#third-example)
-- [Fourth Example](#fourth-example)
+- :school: [Certificates and courses](#certificates-and-courses)
+- 🏁 [My projects](#my-projects)
 
 
 ## :wave: About me
@@ -29,5 +29,5 @@ Give me a chance to tell you more at the interview :wink:
 
 
 
-## Third Example
-## Fourth Example
+## :school: Certificates and Courses
+## 🏁 My projects
