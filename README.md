@@ -17,17 +17,25 @@ Give me a chance to tell you more at the interview :wink:
 1. **TestLink,**
 2. **Jira,**
 3. **Trello;**
-- other tools which I 
+- other tools which I have performed
 1. **DevTools,**
 2. **ShareX,**
 3. **Test & Feedback,**
 4. **xampp,**
 5. **MySQL,**
-6. **GitHub,**
-7. **Slack;**
+6. **Selenium IDE**
+7. **GitHub,**
+8. **Slack;**
 
 
 
 
 ## :school: Certificates and Courses
+- **QA DareIT Challenge,**
+- Podstawy manualnego testowania oprogramowania (Udemy),
+- - Praktyczny kurs testowania oprogramowania (Udemy),
+- Jira od podstaw - zarządzanie projektami (Udemy),
+- Introduction to SQL (sqlbolt.com)
+
+
 ## 🏁 My projects
