@@ -1,5 +1,5 @@
 # **HELLO,**
-## **make yourself at :house:**
+## **make yourself at :house:** `127.0.0.1`
 # Take a shortcut :runner:
 - :wave: [About me](#about-me)
 - :computer: [Practical skills](#practical-skills)
@@ -8,7 +8,7 @@
 
 
 ## :wave: About me
-Hello again! My name is Marta, it will be nice to meet you in the future, stranger. You know my name and you have to know just :one: thing else: for the last three years I have been a full time mom and now I want that my dreams can finally come true- I have decided to be a Software Tester (not just any) and I warn you.. I am so so motivated to do it! I work hard and I see effects :muscle: 
+Hello again! My name is Marta, it will be nice to meet you in the future, stranger. You have already known my name and you have to know just :one: thing else- for the last three years I have been a full time mom and now I want that my dreams can finally come true- I have decided to be a Software Tester (not just any.. at least beta version) and I warn you.. I am so so motivated to do it! I work hard and I see effects :muscle: 
 
 Give me a chance to tell you more at the interview :wink:
 
