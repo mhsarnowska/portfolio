@@ -8,7 +8,7 @@
 
 
 ## :wave: About me
-Hello again! My name is Marta, it will be nice to meet you in the future, stranger. You have already known my name and you have to know just :one: thing else- for the last three years I have been a full time mom and now I want that my dreams can finally come true- I have decided to be a Software Tester (not just any.. at least beta version) and I warn you.. I am so so motivated to do it! I work hard and I  can already see the results :muscle: 
+Hello again! My name is Marta, it will be nice to meet you in the future, stranger. You have already known my name and you have to know just :one: thing else- for the last three years I have been a full time mom and now I want that my dreams can finally come true- I have decided to be a Software Tester (not just any.. I measure high :top:) and I warn you.. I am so so motivated to do it! I work hard and I  can already see the results :muscle: 
 
 Give me a chance to tell you more at the interview :wink:
 
