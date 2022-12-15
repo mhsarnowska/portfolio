@@ -1,10 +1,10 @@
 # **HELLO,**
 ## make yourself at `127.0.0.1`
 # Take a shortcut :runner:
-- :wave: [About me](#:wave:-about-me)
-- :computer: [Practical skills](#practical-skills)
-- :school: [Certificates and courses](#certificates-and-courses)
-- 🏁 [My projects](#my-projects)
+- :wave: [About me](#wave-about-me)
+- :computer: [Practical skills](#computer-practical-skills-and-tools)
+- :school: [Certificates and courses](#school-certificates-and-courses)
+- 🏁 [My projects](#checkered_flag-my-projects)
 
 
 ## :wave: About me
