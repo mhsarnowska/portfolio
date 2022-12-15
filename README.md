@@ -4,7 +4,7 @@
 - :wave: [About me](#wave-about-me)
 - :computer: [Practical skills](#computer-practical-skills-and-tools)
 - :school: [Certificates and courses](#school-certificates-and-courses)
-- 📋 [My projects](#clickboard-my-projects)
+- 📋 [My projects](#clipboard-my-projects)
 
 
 ## :wave: About me
