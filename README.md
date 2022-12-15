@@ -2,9 +2,9 @@
 ## make yourself at `127.0.0.1`
 # Take a shortcut :runner:
 - :wave: [About me](#wave-about-me)
-- :computer: [Practical skills](#computer-practical-skills-and-tools)
+- :computer: [Practical skills and tools](#computer-practical-skills-and-tools)
 - :school: [Certificates and courses](#school-certificates-and-courses)
-- 📋 [My projects](#clipboard-my-projects)
+- 📋 [My projects](#📋-my-projects)
 
 
 ## :wave: About me
