@@ -36,7 +36,7 @@ Give me a chance to tell you more at the interview :wink:
 - Introduction to SQL (sqlbolt.com),
 - Python dla początkujących (Udemy); 
 
-## 📋 My projects
+## :clipboard: My projects
 - Sample test cases (exploratory testing) of mobile application **pick.eat.up** ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1QAVT1efhWFnMcftReLW2xENqr0ZtzQmGaYpEV2tDEfY/edit?usp=sharing )
 - Sample test cases (exploratory testing) of mobile app **Focusly** ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/1Vlo8O26AIucmPU_-fa18ZU9qVKG9aHAUFVCnWsIGO_I/edit?usp=sharing )
 - Bug reports of **scouts.futbolkolektyw.pl** testing ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/17jtE317oE7hNeXUQTkf_WzJIjjldZq3Myv7Rd2IBa1A/edit?usp=sharing ) and ➡️ [CLICK]( https://docs.google.com/document/d/1lo_maTNg7KiM8VjF3BQigYcbPUTlr1Pa_UYbMKPxoS8/edit?usp=sharing )
