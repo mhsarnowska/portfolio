@@ -42,4 +42,5 @@ Give me a chance to tell you more at the interview :wink:
 - Bug reports of **scouts.futbolkolektyw.pl** testing ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/17jtE317oE7hNeXUQTkf_WzJIjjldZq3Myv7Rd2IBa1A/edit?usp=sharing ) and ➡️ [CLICK]( https://docs.google.com/document/d/1lo_maTNg7KiM8VjF3BQigYcbPUTlr1Pa_UYbMKPxoS8/edit?usp=sharing )
 - Some screenshots from Jira with reported bugs- mobile testing app **SwipeTo** ➡️ [CLICK]( https://i.imgur.com/VMRuPdP.png )
 and [CLICK]( https://i.imgur.com/SXCAfw5.png )
+- Bug reports of **studioastro.pl** exploratory testing ➡️ [CLICK]( https://docs.google.com/spreadsheets/d/19dyXM55-ANEDEWwNGAC9g2E9YNvCCEJ3ribe_1DdLy0/edit?usp=sharing )
 
